@@ -1,3 +1,12 @@
 -Artefatos PS2025-
 Este é um arquivo de exemplo para testar a inserção de artefatos no repositório de gestão de configuração.
 Este arquivo será usado como exemplo de gerenciamento e controle de versões de artefatos.
+
+A implementação de um repositório de artefatos oferece diversos benefícios para os times de desenvolvimento de projetos de software. Os principais benefícios incluem
+1-Controle de versões: Registra todas as versões dos artefatos, permitindo reverter ou acessar versões anteriores, reduzindo riscos de perda de dados.
+2-Colaboração eficiente: Centraliza os artefatos, permitindo que a equipe acesse, modifique e atualize arquivos em tempo real, melhorando a colaboração, mesmo à distância.
+3-Segurança e integridade: Garante a proteção dos artefatos, prevenindo alterações indevidas e oferecendo backups automáticos.
+4-Auditoria e rastreabilidade: Facilita auditorias, permitindo rastrear todas as modificações feitas, garantindo conformidade e boas práticas de governança.
+5-Alinhamento com Governança de TI: Está em conformidade com práticas de Governança de TI (COBIT e ITIL), apoiando a documentação, controle de mudanças e gestão de riscos no projeto.
+
+Esses pontos ajudam a melhorar o gerenciamento, segurança e eficiência no desenvolvimento de software.
